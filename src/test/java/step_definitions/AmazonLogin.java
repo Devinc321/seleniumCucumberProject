@@ -1,6 +1,8 @@
 package step_definitions;
 
 import org.junit.Assert;
+
+
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.But;
 import io.cucumber.java.en.Given;
@@ -37,6 +39,7 @@ public class AmazonLogin {
 	    utils.waitUntilElementVisible(amazonpage.signInText);
 	    Assert.assertTrue(amazonpage.signInText.isDisplayed());
 	}
+	
 	
 	
 	// the amazon invalid email test 
