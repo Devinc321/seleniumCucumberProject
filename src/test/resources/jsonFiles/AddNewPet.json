@@ -1,0 +1,18 @@
+{
+    "id": 3305474,
+    "category": {
+        "id": 2,
+        "name": "cat"
+    },
+    "name": "booboo",
+    "photoUrls": [
+        "www.google.com"
+    ],
+    "tags": [
+        {
+            "id": 12,
+            "name": "bobo"
+        }
+    ],
+    "status": "available"
+}
